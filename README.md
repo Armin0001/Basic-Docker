@@ -2,7 +2,7 @@
 
 ## Demo Docker Project
 
-Follow the guildlines to setup the docker image on your local machine  
+Follow the guildlines to setup the docker image on your local machine, but also build a Next.js project
 </div>
 
 
