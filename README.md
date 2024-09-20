@@ -27,7 +27,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 [LIVE LINK](https://basic-docker-example-usage.vercel.app/)
 
-The link points to a page which contains nothing more or less, but does work.
+The link works, although nothing much to check out.
 
 ## 🐋 Dockerization
 
