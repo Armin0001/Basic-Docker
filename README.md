@@ -1,4 +1,4 @@
-<div style="text-center">
+<div align="center">
 
 ## Demo Docker Project
 
